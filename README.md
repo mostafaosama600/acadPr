@@ -1,1 +1,1 @@
-# acadPr
+# acadimeProject
